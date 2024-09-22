@@ -1,1 +1,1 @@
-Hello there, we're Robitics team Light Side Robotics.　On our repositories, you can 
+Hello there, we're Robitics team Light Side Robotics.　On our repositories, You can find our Python code to control Spike Prime. There are programs such as turning control and trapezoidal control.
